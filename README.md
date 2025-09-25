@@ -5,3 +5,5 @@
 [Link to Assignment 1](assignments/assignment1.md) 
 
 [Link to Assignment 2](assignments/aasignment2.md)
+
+[Link to Assignment 3](assignments/aasignment3.md)
